@@ -1,0 +1,11 @@
+.prices {
+  display: flex;
+}
+
+.prices__list {
+  @include no-list;
+}
+
+.prices__btn {
+  border: none;
+}
