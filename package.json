@@ -1,13 +1,15 @@
 {
-  "name": "euro-trip",
+  "name": "bike",
   "version": "17.0.0",
   "private": true,
-  "description": "Проект 'Путешествие по Европе' от HTML academy Грейдирование",
+  "description": "Проект 'Велосипеды' от HTML academy Грейдирование",
   "devDependencies": {
     "@htmlacademy/editorconfig-cli": "1.x",
+    "@typescript-eslint/eslint-plugin": "^4.10.0",
+    "@typescript-eslint/parser": "^4.10.0",
     "autoprefixer": "9.5.x",
     "babel-eslint": "^10.1.0",
-    "browser-sync": "2.26.x",
+    "browser-sync": "^2.26.13",
     "eslint": "4.16.0",
     "eslint-config-htmlacademy": "0.4.x",
     "gulp": "4.0.x",
